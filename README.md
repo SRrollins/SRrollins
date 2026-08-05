@@ -36,11 +36,11 @@
 > RNN-based phishing detection system — **93.49% accuracy, 95.46% recall**
 > Trained on 11,055 URLs with 30 features using PyTorch
 
-### 🎬 [Movie Search & Discovery App](https://github.com/SRrollins)
+### 🎬 [Movie Search & Discovery App](https://github.com/SRrollins/Movie-Search-engine)
 > Full-stack recommendation engine on AWS
 > Built with Python, React, Node.js, SQL, REST APIs
 
-### 🍎 AI Food Recognition (Coming Soon)
+### 🍎 AI Food Recognition 
 > CNN-based real-time food classification — **88% accuracy**
 > Built with PyTorch, OpenCV, FastAPI
 
@@ -84,16 +84,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SRrollins&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRrollins&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
----
-
-<p align="center">
-  <i>Open to Software Engineer, ML Engineer, and Research Engineer internship opportunities</i>
-</p>
