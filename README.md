@@ -40,7 +40,7 @@
 > Full-stack recommendation engine on AWS
 > Built with Python, React, Node.js, SQL, REST APIs
 
-### 🍎 AI Food Recognition 
+### 🍎 [AI Food Recognition](https://github.com/SRrollins/ai-food-recognition) 
 > CNN-based real-time food classification — **88% accuracy**
 > Built with PyTorch, OpenCV, FastAPI
 
